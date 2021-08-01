@@ -16,3 +16,6 @@ on how to use Git and GitHub together.
 ## Getting Started
 
 To get started with this project, just 'clone' this repository.
+
+## Summary
+This website is for electronic shopping.
