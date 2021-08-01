@@ -19,3 +19,4 @@ To get started with this project, just 'clone' this repository.
 
 ## Summary
 This website is for electronic shopping.
+It is a library system.
